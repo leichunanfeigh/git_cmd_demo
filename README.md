@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# git_cmd_demo
-=======
 # git_cmd_demo
 
 git init
@@ -22,4 +19,3 @@ git checkout
 git merge
 
 122
->>>>>>> 14f8037 (update readme)
